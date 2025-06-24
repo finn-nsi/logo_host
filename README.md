@@ -1,1 +1,1 @@
-Dit is een oublic repository waarin het NSI-GPT logo staat geüpload. De link van het logo in deze repository wordt gebruikt in een environment variable in de web app van NSI-GPT in het Azure portaal. Deze repository moet dus ook public blijven.
+Dit is een public repository waarin het NSI-GPT logo staat geüpload. De link van het logo in deze repository wordt gebruikt in een environment variable in de web app van NSI-GPT in het Azure portaal. Deze repository moet dus ook public blijven.
